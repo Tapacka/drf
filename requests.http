@@ -44,6 +44,4 @@ Content-Type: application/json
 GET {{baseUrl}}/sensor/1/
 Content-Type: application/json
 
-###
 
-GET {{baseUrl}}/measurement/
